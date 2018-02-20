@@ -12,6 +12,7 @@ const document = generator({
   customer: {
     name: 'Elliot Raque',
     email: 'raque@gmail.com',
+    address:'Newyork',
   },
   items: [
     {amount: 50.0, name: 'XYZ', description: 'Lorem ipsum dollor sit amet', quantity: 12},
